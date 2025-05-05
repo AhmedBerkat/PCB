@@ -1,0 +1,445 @@
+Info: Traitement du symbole "C1:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "C12:Capacitor_SMD:C_0805_2012Metric".
+Info: Traitement du symbole "C4:Capacitor_SMD:C_0402_1005Metric".
+Info: Traitement du symbole "D1:Inductor_SMD:L_0603_1608Metric".
+Info: Traitement du symbole "J3:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical".
+Info: Traitement du symbole "C11:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "J1:Connector_USB:USB_Micro-B_Wuerth_629105150521".
+Info: Traitement du symbole "C3:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical".
+Info: Traitement du symbole "C8:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "C7:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "C6:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "C9:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "C2:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "FB1:Inductor_SMD:L_0603_1608Metric".
+Info: Traitement du symbole "C5:Capacitor_SMD:C_0603_1608Metric".
+Info: Traitement du symbole "C13:Capacitor_SMD:C_0805_2012Metric".
+Info: Traitement du symbole "C10:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "J4:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical".
+Info: Traitement du symbole "R1:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "R2:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "R3:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "R4:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "R5:Resistor_SMD:R_0402_1005Metric".
+Info: Traitement du symbole "SW1:Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled".
+Info: Traitement du symbole "U1:Package_TO_SOT_SMD:SOT-223-3_TabPin2".
+Info: Traitement du symbole "U2:Package_QFP:LQFP-48_7x7mm_P0.5mm".
+Info: Traitement du symbole "Y1:Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm".
+Ajout net +3.3V.
+Connecter C1 pin 1 à +3.3V.
+Ajouté C2 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en C2.
+Modifie valeur C2 de R_0402_1005Metric en 100n.
+Mise à jour C2 association de symbole de  à /04516d9e-02b3-4e2f-a14a-82ef64a12922.
+Mise a Jour des Champs de C2.
+Mis à jour C2 nom de feuille en /.
+Mis à jour C2 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C2 mis à jour en 'C_*'.
+Connecter C2 pin 1 à +3.3V.
+Connecter C2 pin 2 à GND.
+Ajouté C3 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en C3.
+Modifie valeur C3 de R_0402_1005Metric en 100n.
+Mise à jour C3 association de symbole de  à /b17aef93-c959-4067-993e-f5d3172ec033.
+Mise a Jour des Champs de C3.
+Mis à jour C3 nom de feuille en /.
+Mis à jour C3 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C3 mis à jour en 'C_*'.
+Connecter C3 pin 2 à GND.
+Connecter C3 pin 1 à +3.3V.
+Ajouté C4 (empreinte 'Capacitor_SMD:C_0402_1005Metric').
+Change la référence schématique de REF** en C4.
+Modifie valeur C4 de C_0402_1005Metric en 100n.
+Mise à jour C4 association de symbole de  à /fc90c5a5-cf62-4b33-96dc-969bd57520e6.
+Mise a Jour des Champs de C4.
+Mis à jour C4 nom de feuille en /.
+Mis à jour C4 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C4 mis à jour en 'C_*'.
+Connecter C4 pin 1 à +3.3V.
+Connecter C4 pin 2 à GND.
+Ajouté C5 (empreinte 'Capacitor_SMD:C_0603_1608Metric').
+Change la référence schématique de REF** en C5.
+Modifie valeur C5 de C_0603_1608Metric en 10u.
+Mise à jour C5 association de symbole de  à /ff881c32-cd38-43b8-ba9d-1aab4a00d5e8.
+Mise a Jour des Champs de C5.
+Mis à jour C5 nom de feuille en /.
+Mis à jour C5 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C5 mis à jour en 'C_*'.
+Connecter C5 pin 1 à +3.3V.
+Connecter C5 pin 2 à GND.
+Ajouté C6 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en C6.
+Modifie valeur C6 de R_0402_1005Metric en 10n.
+Mise à jour C6 association de symbole de  à /ff90de0f-6659-412c-ab82-8b35f208a06a.
+Mise a Jour des Champs de C6.
+Mis à jour C6 nom de feuille en /.
+Mis à jour C6 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C6 mis à jour en 'C_*'.
+Connecter C6 pin 2 à GND.
+Ajout net +3.3VA.
+Connecter C6 pin 1 à +3.3VA.
+Ajouté C7 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en C7.
+Modifie valeur C7 de R_0402_1005Metric en 1u.
+Mise à jour C7 association de symbole de  à /94ba1620-4b8d-4b32-9cee-7e5b7e19dafd.
+Mise a Jour des Champs de C7.
+Mis à jour C7 nom de feuille en /.
+Mis à jour C7 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C7 mis à jour en 'C_*'.
+Connecter C7 pin 1 à +3.3VA.
+Connecter C7 pin 2 à GND.
+Ajouté C8 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en C8.
+Modifie valeur C8 de R_0402_1005Metric en 1u.
+Mise à jour C8 association de symbole de  à /f9677876-88d4-4ccf-9892-1c244a8429af.
+Mise a Jour des Champs de C8.
+Mis à jour C8 nom de feuille en /.
+Mis à jour C8 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C8 mis à jour en 'C_*'.
+Connecter C8 pin 1 à +3.3V.
+Connecter C8 pin 2 à GND.
+Ajouté C9 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en C9.
+Modifie valeur C9 de R_0402_1005Metric en 100n.
+Mise à jour C9 association de symbole de  à /cabd3084-5577-4639-98d9-a353ee1498af.
+Mise a Jour des Champs de C9.
+Mis à jour C9 nom de feuille en /.
+Mis à jour C9 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C9 mis à jour en 'C_*'.
+Ajout net /NRST.
+Connecter C9 pin 1 à /NRST.
+Connecter C9 pin 2 à GND.
+Ajouté C10 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en C10.
+Modifie valeur C10 de R_0402_1005Metric en 10p.
+Mise à jour C10 association de symbole de  à /e91073c9-ffa9-41c7-a4c8-382ff02ae708.
+Mise a Jour des Champs de C10.
+Mis à jour C10 nom de feuille en /.
+Mis à jour C10 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C10 mis à jour en 'C_*'.
+Connecter C10 pin 2 à GND.
+Ajout net /HSE_OUT.
+Connecter C10 pin 1 à /HSE_OUT.
+Ajouté C11 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en C11.
+Modifie valeur C11 de R_0402_1005Metric en 10p.
+Mise à jour C11 association de symbole de  à /b86e8520-c655-4751-a410-1d510be13177.
+Mise a Jour des Champs de C11.
+Mis à jour C11 nom de feuille en /.
+Mis à jour C11 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C11 mis à jour en 'C_*'.
+Ajout net /HSE_IN.
+Connecter C11 pin 1 à /HSE_IN.
+Connecter C11 pin 2 à GND.
+Ajouté C12 (empreinte 'Capacitor_SMD:C_0805_2012Metric').
+Change la référence schématique de REF** en C12.
+Modifie valeur C12 de C_0805_2012Metric en 22u.
+Mise à jour C12 association de symbole de  à /24864b44-5887-4e3b-9b27-5daf2388e29c.
+Mise a Jour des Champs de C12.
+Mis à jour C12 nom de feuille en /.
+Mis à jour C12 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C12 mis à jour en 'C_*'.
+Ajout net VBUS.
+Connecter C12 pin 1 à VBUS.
+Connecter C12 pin 2 à GND.
+Ajouté C13 (empreinte 'Capacitor_SMD:C_0805_2012Metric').
+Change la référence schématique de REF** en C13.
+Modifie valeur C13 de C_0805_2012Metric en 22u.
+Mise à jour C13 association de symbole de  à /dcb09c98-700b-4dbb-97d4-cac88f9fbd9b.
+Mise a Jour des Champs de C13.
+Mis à jour C13 nom de feuille en /.
+Mis à jour C13 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte C13 mis à jour en 'C_*'.
+Connecter C13 pin 1 à +3.3V.
+Connecter C13 pin 2 à GND.
+Ajouté D1 (empreinte 'Inductor_SMD:L_0603_1608Metric').
+Change la référence schématique de REF** en D1.
+Modifie valeur D1 de L_0603_1608Metric en RED.
+Mise à jour D1 association de symbole de  à /2e423832-e788-4265-813b-2545e1d9581f.
+Mise a Jour des Champs de D1.
+Mis à jour D1 nom de feuille en /.
+Mis à jour D1 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte D1 mis à jour en 'LED* LED_SMD:* LED_THT:*'.
+Ajout net Net-(D1-K).
+Connecter D1 pin 1 à Net-(D1-K).
+Connecter D1 pin 2 à +3.3V.
+Ajouté FB1 (empreinte 'Inductor_SMD:L_0603_1608Metric').
+Change la référence schématique de REF** en FB1.
+Modifie valeur FB1 de L_0603_1608Metric en 120R.
+Mise à jour FB1 association de symbole de  à /38c64ba1-d0f9-416a-bc5c-cd6289651779.
+Mise a Jour des Champs de FB1.
+Mis à jour FB1 nom de feuille en /.
+Mis à jour FB1 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte FB1 mis à jour en 'Inductor_* L_* *Ferrite*'.
+Connecter FB1 pin 2 à +3.3V.
+Connecter FB1 pin 1 à +3.3VA.
+Ajouté J1 (empreinte 'Connector_USB:USB_Micro-B_Wuerth_629105150521').
+Change la référence schématique de REF** en J1.
+Modifie valeur J1 de USB_Micro-B_Wuerth_629105150521 en USB_B_Micro.
+Mise à jour J1 association de symbole de  à /113d99d6-866d-4f1d-8feb-d2a13f6b1188.
+Mise a Jour des Champs de J1.
+Mis à jour J1 nom de feuille en /.
+Mis à jour J1 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte J1 mis à jour en 'USB*'.
+Connecter J1 pin 1 à VBUS.
+Ajout net unconnected-(J1-Shield-Pad6).
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6).
+Ajout net unconnected-(J1-ID-Pad4).
+Connecter J1 pin 4 à unconnected-(J1-ID-Pad4).
+Connecter J1 pin 5 à GND.
+Ajout net /USB_D+.
+Connecter J1 pin 3 à /USB_D+.
+Ajout net unconnected-(J1-Shield-Pad6)_1.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_1.
+Ajout net unconnected-(J1-Shield-Pad6)_2.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_2.
+Ajout net /USB_D-.
+Connecter J1 pin 2 à /USB_D-.
+Ajout net unconnected-(J1-Shield-Pad6)_3.
+Connecter J1 pin 6 à unconnected-(J1-Shield-Pad6)_3.
+Ajouté J2 (empreinte 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Change la référence schématique de REF** en J2.
+Modifie valeur J2 de PinHeader_1x04_P2.54mm_Vertical en Conn_01x04_Pin.
+Mise à jour J2 association de symbole de  à /1d4e67a5-c5d2-44f0-8bd0-c0fb2156ebe2.
+Mise a Jour des Champs de J2.
+Mis à jour J2 nom de feuille en /.
+Mis à jour J2 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte J2 mis à jour en 'Connector*:*_1x??_*'.
+Ajout net /SWDIO.
+Connecter J2 pin 2 à /SWDIO.
+Ajout net /SWCLK.
+Connecter J2 pin 3 à /SWCLK.
+Connecter J2 pin 1 à +3.3V.
+Connecter J2 pin 4 à GND.
+Ajouté J3 (empreinte 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Change la référence schématique de REF** en J3.
+Modifie valeur J3 de PinHeader_1x04_P2.54mm_Vertical en Conn_01x04_Pin.
+Mise à jour J3 association de symbole de  à /6a9b85a0-7370-44a9-ad2f-8527626f3144.
+Mise a Jour des Champs de J3.
+Mis à jour J3 nom de feuille en /.
+Mis à jour J3 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte J3 mis à jour en 'Connector*:*_1x??_*'.
+Ajout net /USART1_RX.
+Connecter J3 pin 3 à /USART1_RX.
+Connecter J3 pin 4 à GND.
+Connecter J3 pin 1 à +3.3V.
+Ajout net /USART1_TX.
+Connecter J3 pin 2 à /USART1_TX.
+Ajouté C1 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Ajouté J4 (empreinte 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Change la référence schématique de REF** en J4.
+Modifie valeur J4 de PinHeader_1x04_P2.54mm_Vertical en Conn_01x04_Pin.
+Mise à jour J4 association de symbole de  à /b3156490-ae96-4b62-9df3-8a0f2f557073.
+Mise a Jour des Champs de J4.
+Mis à jour J4 nom de feuille en /.
+Mis à jour J4 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte J4 mis à jour en 'Connector*:*_1x??_*'.
+Ajout net /I2C2_SCL.
+Connecter J4 pin 2 à /I2C2_SCL.
+Ajout net /I2C2_SDA.
+Connecter J4 pin 3 à /I2C2_SDA.
+Connecter J4 pin 1 à +3.3V.
+Connecter J4 pin 4 à GND.
+Change la référence schématique de REF** en C1.
+Ajouté R1 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en R1.
+Modifie valeur R1 de R_0402_1005Metric en 10K.
+Mise à jour R1 association de symbole de  à /9be4031e-c33d-494b-a9e9-675968a8908d.
+Mise a Jour des Champs de R1.
+Mis à jour R1 nom de feuille en /.
+Mis à jour R1 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte R1 mis à jour en 'R_*'.
+Ajout net Net-(U1-BOOT0).
+Connecter R1 pin 2 à Net-(U1-BOOT0).
+Ajout net Net-(SW1-B).
+Connecter R1 pin 1 à Net-(SW1-B).
+Modifie valeur C1 de R_0402_1005Metric en 100n.
+Ajouté R2 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en R2.
+Modifie valeur R2 de R_0402_1005Metric en 1k5.
+Mise à jour R2 association de symbole de  à /f0ff934c-3130-4927-98ab-bf7a51091cfa.
+Mise a Jour des Champs de R2.
+Mis à jour R2 nom de feuille en /.
+Mis à jour R2 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte R2 mis à jour en 'R_*'.
+Connecter R2 pin 1 à +3.3V.
+Connecter R2 pin 2 à /USB_D+.
+Mise à jour C1 association de symbole de  à /5313dd31-7b6f-49f8-94ac-ca536f54fc60.
+Ajouté R3 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en R3.
+Modifie valeur R3 de R_0402_1005Metric en 1k5.
+Mise à jour R3 association de symbole de  à /bcb3abd4-a520-41fe-9204-b215d3b27186.
+Mise a Jour des Champs de R3.
+Mis à jour R3 nom de feuille en /.
+Mis à jour R3 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte R3 mis à jour en 'R_*'.
+Connecter R3 pin 1 à Net-(D1-K).
+Connecter R3 pin 2 à GND.
+Mise a Jour des Champs de C1.
+Ajouté R4 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en R4.
+Modifie valeur R4 de R_0402_1005Metric en 1k5.
+Mise à jour R4 association de symbole de  à /7bd82c5d-c0bc-4dbb-8569-6451d60bca81.
+Mise a Jour des Champs de R4.
+Mis à jour R4 nom de feuille en /.
+Mis à jour R4 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte R4 mis à jour en 'R_*'.
+Connecter R4 pin 1 à /I2C2_SCL.
+Connecter R4 pin 2 à +3.3V.
+Mis à jour C1 nom de feuille en /.
+Ajouté R5 (empreinte 'Resistor_SMD:R_0402_1005Metric').
+Change la référence schématique de REF** en R5.
+Modifie valeur R5 de R_0402_1005Metric en 1k5.
+Mise à jour R5 association de symbole de  à /5e9c7024-0179-421f-9b15-211661409f44.
+Mise a Jour des Champs de R5.
+Mis à jour R5 nom de feuille en /.
+Mis à jour R5 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte R5 mis à jour en 'R_*'.
+Connecter R5 pin 2 à +3.3V.
+Connecter R5 pin 1 à /I2C2_SDA.
+Mis à jour C1 fichier de feuille en firstkicadproject.kicad_sch.
+Ajouté SW1 (empreinte 'Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled').
+Change la référence schématique de REF** en SW1.
+Modifie valeur SW1 de SW_E-Switch_EG1224_SPDT_Angled en SW_SPDT.
+Mise à jour SW1 association de symbole de  à /66c9a441-68c9-430e-b270-944ce7941a35.
+Mise a Jour des Champs de SW1.
+Mis à jour SW1 nom de feuille en /.
+Mis à jour SW1 fichier de feuille en firstkicadproject.kicad_sch.
+Connecter SW1 pin 2 à Net-(SW1-B).
+Connecter SW1 pin 3 à +3.3V.
+Connecter SW1 pin 1 à GND.
+Filtres d'empreinte C1 mis à jour en 'C_*'.
+Ajouté U1 (empreinte 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Change la référence schématique de REF** en U1.
+Modifie valeur U1 de SOT-223-3_TabPin2 en STM32F103C8T6.
+Mise à jour U1 association de symbole de  à /492a3f16-ffdb-4f6d-8232-5fd05378536b.
+Mise a Jour des Champs de U1.
+Mis à jour U1 nom de feuille en /.
+Mis à jour U1 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte U1 mis à jour en 'LQFP*7x7mm*P0.5mm*'.
+Connecter U1 pin 1 à +3.3V.
+Ajout net unconnected-(U1-PC13-Pad2).
+Connecter U1 pin 2 à unconnected-(U1-PC13-Pad2).
+Ajout net unconnected-(U1-PC13-Pad2)_1.
+Connecter U1 pin 2 à unconnected-(U1-PC13-Pad2)_1.
+Ajout net unconnected-(U1-PC14-Pad3).
+Connecter U1 pin 3 à unconnected-(U1-PC14-Pad3).
+Ajout net GND.
+Ajouté U2 (empreinte 'Package_QFP:LQFP-48_7x7mm_P0.5mm').
+Change la référence schématique de REF** en U2.
+Modifie valeur U2 de LQFP-48_7x7mm_P0.5mm en AMS1117-3.3.
+Mise à jour U2 association de symbole de  à /d40d415b-c106-405d-b197-b577940146dd.
+Mise a Jour des Champs de U2.
+Mis à jour U2 nom de feuille en /.
+Mis à jour U2 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte U2 mis à jour en 'SOT?223*TabPin2*'.
+Connecter U2 pin 3 à VBUS.
+Connecter U2 pin 1 à GND.
+Connecter U2 pin 2 à +3.3V.
+Connecter C1 pin 2 à GND.
+Ajouté Y1 (empreinte 'Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm').
+Change la référence schématique de REF** en Y1.
+Modifie valeur Y1 de Crystal_SMD_3225-4Pin_3.2x2.5mm en Crystal_GND24.
+Mise à jour Y1 association de symbole de  à /0b85b8dc-2d2d-4a46-822f-3c4421c0ab6d.
+Mise a Jour des Champs de Y1.
+Mis à jour Y1 nom de feuille en /.
+Mis à jour Y1 fichier de feuille en firstkicadproject.kicad_sch.
+Filtres d'empreinte Y1 mis à jour en 'Crystal*'.
+Connecter Y1 pin 4 à GND.
+Connecter Y1 pin 3 à /HSE_OUT.
+Connecter Y1 pin 1 à /HSE_IN.
+Connecter Y1 pin 2 à GND.
+Attention: Pas d'équipotentielle pour composant 'U2' pad '44' (pas de pin 44 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '14' (pas de pin 14 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '40' (pas de pin 40 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '24' (pas de pin 24 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '11' (pas de pin 11 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '23' (pas de pin 23 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '16' (pas de pin 16 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '21' (pas de pin 21 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '9' (pas de pin 9 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '19' (pas de pin 19 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '8' (pas de pin 8 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '25' (pas de pin 25 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '22' (pas de pin 22 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '32' (pas de pin 32 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '48' (pas de pin 48 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '43' (pas de pin 43 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '26' (pas de pin 26 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '17' (pas de pin 17 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '27' (pas de pin 27 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '36' (pas de pin 36 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '38' (pas de pin 38 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '42' (pas de pin 42 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '34' (pas de pin 34 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '12' (pas de pin 12 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '46' (pas de pin 46 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '5' (pas de pin 5 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '18' (pas de pin 18 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '35' (pas de pin 35 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '31' (pas de pin 31 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '47' (pas de pin 47 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '29' (pas de pin 29 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '37' (pas de pin 37 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '13' (pas de pin 13 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '30' (pas de pin 30 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '33' (pas de pin 33 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '15' (pas de pin 15 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '4' (pas de pin 4 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '20' (pas de pin 20 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '28' (pas de pin 28 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '7' (pas de pin 7 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '45' (pas de pin 45 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '41' (pas de pin 41 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '10' (pas de pin 10 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '6' (pas de pin 6 en symbole).
+Attention: Pas d'équipotentielle pour composant 'U2' pad '39' (pas de pin 39 en symbole).
+Erreur: U1 pad 24 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 36 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 48 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 9 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 5 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 6 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 21 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 22 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 7 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 37 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 34 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 43 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 42 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 33 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 32 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 23 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 35 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 47 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 8 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 44 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 10 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 11 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 12 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 13 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 14 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 15 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 16 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 17 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 29 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 30 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 31 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 38 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 18 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 19 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 20 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 39 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 40 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 41 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 45 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 46 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 25 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 26 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 27 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 28 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+Erreur: U1 pad 4 non trouvé en Package_TO_SOT_SMD:SOT-223-3_TabPin2.
+
+
+Info: Total warnings: 45, erreurs: 45.
